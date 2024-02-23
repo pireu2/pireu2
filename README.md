@@ -2,9 +2,10 @@
 I am a 2nd year Computer Science student at the Technical University of Cluj-Napoca. </br>
 
  **I am open to**:
-    - any collaboration work,
-    - projects(development or research),
-    - internships
+
+- any collaboration work,
+- projects(development or research),
+- internships
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sebiduica) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duică-sebastian-096452261) 
