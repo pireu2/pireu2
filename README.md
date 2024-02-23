@@ -1,5 +1,5 @@
 ## 👋 Hi:
-I am a 2nd year Computer Science student at the Technical University of Cluj-Napoca.
+I am a 2nd year Computer Science student at the Technical University of Cluj-Napoca. </br>
 I am open to:
     - any collaboration work,
     - projects(development or research),
