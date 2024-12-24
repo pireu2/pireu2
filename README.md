@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi:<br>I am a 3rd year Computer Science student at the Technical University of Cluj-Napoca. </br><br><br> **I am open to**:<br><br>- any collaboration work,<br>- projects(development or research),<br>- internships<br>
+## 👋 Hi:<br>I am a 3rd year Computer Science student at the Technical University of Cluj-Napoca. </br><br><br> **I am open to**:<br><br>- any collaboration work,<br>- projects(development or research),<br>- internships
 
 
 ## 🌐 Socials:
