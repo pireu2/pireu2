@@ -1,5 +1,5 @@
 ## 👋 Hi:
- I am a 3rd year Computer Science student at the Technical University of Cluj-Napoca. </br><br> **I am open to**:<br>- any collaboration work<br>- projects(development or research)<br>- internships<br><br>
+ I am a 4th year Computer Science student at the Technical University of Cluj-Napoca. </br><br> **I am open to**:<br>- any collaboration work<br>- projects(development or research)<br>- internships<br><br>
 
 
 ## 🌐 Socials:
